@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28768" started-at="2020-03-14T17:47:10Z" finished-at="2020-03-14T17:47:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28768" started-at="2020-03-14T17:47:10Z" finished-at="2020-03-14T17:47:39Z">
+      <class name="MM_healthcare.Profile">
+        <test-method status="PASS" signature="profile()[pri:0, instance:MM_healthcare.Profile@3bfdc050]" name="profile" duration-ms="28734" started-at="2020-03-14T13:47:10Z" finished-at="2020-03-14T13:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profile -->
+      </class> <!-- MM_healthcare.Profile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -16,7 +16,8 @@ public class AdminLoginPage {
 
 	}
 
-	public void adminLogin(String username, String password) {
+	public void adminLogin(String username, String password)
+	{
 
 		WebElement uname = driver.findElement(By.id("username"));
 		uname.sendKeys(username);

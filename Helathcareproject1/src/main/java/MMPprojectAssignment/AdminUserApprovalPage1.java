@@ -60,10 +60,11 @@ public class AdminUserApprovalPage1 {
 		driver.switchTo().alert().accept();
 
 		// Admin Logout
-		// WebElement logout =
-		// driver.findElement(By.xpath("//span[contains(text(),'Logout')]"));
-		// logout.click();
+		 WebElement logout =
+		 driver.findElement(By.xpath("//span[contains(text(),'Logout')]"));
+		 logout.click();
 
 	}
 
+	
 }
